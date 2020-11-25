@@ -1,0 +1,50 @@
+.element 
+{ 
+    text-align: left;
+  border-color: black;
+    padding: 1px;
+	width: 330px;
+	border: 7px solid #000;
+}
+
+.display2
+{
+    background-color: white;
+
+    text-align: left;
+  border-color: black;
+    padding: 2px;
+	width: 270px;
+	border: 2px solid #000;
+    height: 40px;
+    
+}
+.display {
+      background-color: darkgray;
+      padding: 15px;
+      width: 300px;
+      text-align: left;
+      font-size: px;
+      border-top-left-radius:10px;
+      border-top-right-radius:10px;
+}
+
+button {
+    padding: 10px;
+    width: 67px;
+    height: 45px;
+    margin-top: 10px;
+    background-color: white;
+    color: black;
+    font-size: 20px;
+}
+button:hover {
+ cursor: pointer;
+ background-color:  lightgray;
+}
+button:active {
+ background-color: lightslategray;
+}
+    
+
+
